@@ -27,31 +27,32 @@ Execution of the run_analysis.R script:
 *  The final dataset output generated of cleaned data contains subject, activity and measures for features required for this assignment thus mean or standard deviation
 
 
-         VARIABLES
-       ---------------
+     Variables
+ ----------------------------
 
 
 * Descriptive Activity Names
 
- id               name
-1  1            WALKING
-2  2   WALKING_UPSTAIRS
-3  3 WALKING_DOWNSTAIRS
-4  4            SITTING
-5  5           STANDING
-6  6             LAYING
+*   id               name
+*  1  1            WALKING
+*  2  2   WALKING_UPSTAIRS
+*  3  3 WALKING_DOWNSTAIRS
+*  4  4            SITTING
+*  5  5           STANDING
+*  6  6             LAYING
 
   Features:
 -------------
 * 561 features including:
-    id                                 name
-1     1                    tBodyAcc-mean()-X
-2     2                    tBodyAcc-mean()-Y
-3     3                    tBodyAcc-mean()-Z
-4     4                     tBodyAcc-std()-X
-5     5                     tBodyAcc-std()-Y
-6     6                     tBodyAcc-std()-Z
-7     7                     tBodyAcc-mad()-X
+*       id                                 name
+* 1     1                    tBodyAcc-mean()-X
+* 2     2                    tBodyAcc-mean()-Y
+* 3     3                    tBodyAcc-mean()-Z
+* 4     4                     tBodyAcc-std()-X
+* 5     5                     tBodyAcc-std()-Y
+* 6     6                     tBodyAcc-std()-Z
+* 7     7                     tBodyAcc-mad()-X
+* ...
 
 
 
